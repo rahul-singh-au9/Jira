@@ -1,0 +1,11 @@
+Jira software ==>
+              1. Planning
+              2. Tracking
+              3. Managing tool 
+              for software development Projects.
+
+
+The Agile Process ===> 
+so agile is a software development terminology based on the agile manifesto. it is a software development method which basically describes a time-boxed iterative approach to software development to deliver the product incrementally instead of all at once
+
+
